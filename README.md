@@ -1,4 +1,4 @@
-##commands run
+# commands run
 
 1. Create a folder and create a file called “team.txt” within that folder
    1. git init
@@ -20,7 +20,8 @@
    1. git branch -M main
    1. git push -u hci main
 
-##To check
+# To check
+
 git status
 check staging area
 git diff
